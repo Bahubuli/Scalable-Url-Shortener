@@ -1,0 +1,11 @@
+// ignore node modules and build files
+node_modules
+build
+
+// ignore IDE files
+.idea
+.vscode
+*.iml
+
+// ignore OS files
+.DS_Store   
